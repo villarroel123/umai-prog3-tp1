@@ -124,7 +124,7 @@ function random(arr){
 }
 console.log(random(songs))
 
-/*22. Mostrar el mensaje 'El clima en [ciudad] es de [temperatura] [unidad]'*/
+/*22. Mostrar el mensajes 'El clima en [ciudad] es de [temperatura] [unidadd]'*/
 const clima = {
   ciudad: "buenos Aires",
   temperatura: 30,
